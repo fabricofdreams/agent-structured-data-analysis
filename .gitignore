@@ -4,3 +4,5 @@ purc*.*
 *.txt
 /reports
 /db
+.vscode
+__pycache__
