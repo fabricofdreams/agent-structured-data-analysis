@@ -1,0 +1,17 @@
+To calculate the total amount spent, you would need to sum the costs associated with each category. For example, if the 'purchase.csv' file contained the cost for each item, you would sum the costs for all entries with the category 'Books', then sum the costs for 'Shoes', 'Music', and 'Hygiene' separately. After calculating the individual category totals, you can then find the overall total spent by summing the category totals.
+
+Here's a hypothetical example:
+
+Category | Items | Cost
+--- | --- | ---
+Books | book1 | 12.99
+Books | book2 | 15.50
+Shoes | shoes1 | 75.00
+Shoes | shoes2 | 89.99
+Music | electric guitar | 250.00
+Hygiene | shampoo | 4.99
+Hygiene | toothbrush | 3.49
+
+In this example, the total spent on Books would be $28.49, Shoes would be $164.99, Music would be $250.00, and Hygiene would be $8.48. The overall total spent would be $452.96.
+
+Please note that this is just an example, and the actual total spent would depend on the data in the 'purchase.csv' file.

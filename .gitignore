@@ -1,0 +1,6 @@
+.env
+purc*.*
+*.ipynb
+*.txt
+/reports
+/db
