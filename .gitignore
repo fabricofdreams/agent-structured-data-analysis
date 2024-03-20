@@ -1,5 +1,5 @@
 .env
-purc*.*
+purc*.md
 *.ipynb
 *.txt
 /reports
